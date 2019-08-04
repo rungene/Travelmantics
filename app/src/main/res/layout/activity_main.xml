@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/deal_type"
+            android:id="@+id/editTextTitle"
+            android:layout_marginStart="@dimen/editext_margin_standard"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginEnd="@dimen/editext_margin_standard"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="@dimen/edittext_margin_large"
+            app:layout_constraintTop_toTopOf="parent"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:hint="@string/price_number_only"
+            android:id="@+id/editTextPrice"
+            android:layout_marginTop="@dimen/edittext_margin_large"
+            app:layout_constraintTop_toBottomOf="@+id/editTextTitle"
+            android:layout_marginEnd="@dimen/editext_margin_standard"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginStart="@dimen/editext_margin_standard"
+            app:layout_constraintStart_toStartOf="parent"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/editext_description"
+            android:id="@+id/editTextDesciption"
+            android:layout_marginTop="@dimen/edittext_margin_large"
+            app:layout_constraintTop_toBottomOf="@+id/editTextPrice"
+            android:layout_marginEnd="@dimen/editext_margin_standard"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginStart="@dimen/editext_margin_standard"
+            app:layout_constraintStart_toStartOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

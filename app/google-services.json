@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1026536203500",
+    "firebase_url": "https://fcmtestapp-3e76b.firebaseio.com",
+    "project_id": "fcmtestapp-3e76b",
+    "storage_bucket": "fcmtestapp-3e76b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026536203500:android:2a07930a295254f6",
+        "android_client_info": {
+          "package_name": "com.rungenes.alcmeetup2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026536203500-loil5skse8uebnhoobilnfqlbqgtsves.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rungenes.alcmeetup2",
+            "certificate_hash": "ef242023a065e941ec8437248ea2081b41843119"
+          }
+        },
+        {
+          "client_id": "1026536203500-7buls19kitt8qusgk5ofgppt8h15udjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zz2Vr9avxq7VLxKIqMqAX1-2jl65xOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026536203500-7buls19kitt8qusgk5ofgppt8h15udjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026536203500:android:2e456cce78d8122e",
+        "android_client_info": {
+          "package_name": "com.rungenes.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026536203500-9b6a2hse1l7bbpg1966jmilg9sg4o6tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rungenes.travelmantics",
+            "certificate_hash": "ef242023a065e941ec8437248ea2081b41843119"
+          }
+        },
+        {
+          "client_id": "1026536203500-7buls19kitt8qusgk5ofgppt8h15udjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zz2Vr9avxq7VLxKIqMqAX1-2jl65xOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026536203500-7buls19kitt8qusgk5ofgppt8h15udjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026536203500:android:bc8c9ea6ad5b7fda",
+        "android_client_info": {
+          "package_name": "prabeesh.com.fcmtestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026536203500-qcefr3qm34p3fsn84irk46kjmjdn0hai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prabeesh.com.fcmtestapp",
+            "certificate_hash": "ef242023a065e941ec8437248ea2081b41843119"
+          }
+        },
+        {
+          "client_id": "1026536203500-7buls19kitt8qusgk5ofgppt8h15udjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zz2Vr9avxq7VLxKIqMqAX1-2jl65xOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026536203500-7buls19kitt8qusgk5ofgppt8h15udjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
